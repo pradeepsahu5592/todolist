@@ -1,0 +1,68 @@
+
+      *{
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+    }
+    body{
+        background: purple;
+        color: white;
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .container{
+        width: 300px;
+        height: 400px;
+        background: gray;
+        text-align: center;
+    }
+    .header{
+        margin: 10px;
+        border-bottom: 1px solid white;
+    }
+    .txt{
+        width: 100%;
+        /* background: red; */
+        min-height: 40px;
+    }
+    .txtInput{
+        width: 70%;
+        height: 40px;
+        border-radius: 20px;
+        border: none;
+        padding-left: 10px;
+        font-size: 16px;
+
+    }
+    .btn{
+        width: 25%;
+        border-radius: 20px;
+        border: none;
+        height: 40px;
+    }
+    .lists{
+        font-size: 20px;
+        /* display: flex; */
+        /* justify-content: center; */
+        width: 100px;
+        height: 100px;
+        /* background: red; */
+        /* overflow: hidden; */
+
+        
+
+    }
+    .addcss{
+        padding: 5px;
+        border: 1px solid white;
+        border-radius: 10px;
+        margin: 5px;
+        margin-top: 50px;
+    }
+    .color{
+        color: purple;
+    }
+    
